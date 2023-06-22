@@ -1,1 +1,2 @@
 # odin_recipes
+so the current project is about learning html and i am learning html by odin project its a free source web development course i will recommend to anyone to do this course u can land web dev job by doing that.i know little bit of html and css and javascript but i started all over with odin project and start learning what is git and github so thats it..
